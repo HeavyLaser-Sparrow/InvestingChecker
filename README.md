@@ -37,13 +37,14 @@ It uses the **Financial Modeling Prep API** to retrieve stock data and assists i
 
 1. **Update API Key:**  
    Replace the placeholder API key (`PUT API KEY HERE`) in the script with your [Financial Modeling Prep API](https://financialmodelingprep.com/developer/docs/) key.
+   There are multiple placeholders for API key
 
-2. **Run the Script:**
+3. **Run the Script:**
    ```bash
    python <script_name>.py
    ```
 
-3. **Follow the Prompts:**  
+4. **Follow the Prompts:**  
    - Enter the stock ticker symbol (e.g., AAPL, MSFT).  
    - Input your target price and stop-loss price when prompted.
 
